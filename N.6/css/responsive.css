@@ -1,0 +1,32 @@
+/*tab css*/
+@media only screen and (min-width:200px) and (max-width:991px){
+  .main_header .logo_area {width: 55%;}
+  .main_header .search_area {width: auto;}
+  .top_header{position: static;}
+  #slider_area{margin-top: 20px;}
+  .mean-container .mean-bar {padding: 0px 0;}
+  .left_link {padding: 5px 5px;}
+  .right_link {padding: 5px 5px;}
+  .right_content {padding-left: 20px;}
+  .pappya { width: 33.5%;}
+  .hot {margin: 0 15px;}
+}
+  /*mobile css*/
+@media only screen and (min-width:200px) and (max-width:480px){
+  .main_header .logo_area {width: 100%;}
+  .main_header .search_area {width: auto;float: none;text-align: center;}
+  .top_header p {float: none;text-align: center; width: 100%;}
+  .inner_into {padding: 20px 0;}
+  .inner_into .left_into {width: 100%;float: none;padding-bottom:20px}
+  .inner_into .left_into h1 {font-size: 22px;margin: 0;padding: 0;}
+  .inner_into .right_into {width: 97.4%;float: none;padding-top: 20px;}
+  table th {font-size: 17px;}
+  table td {padding: 4px;}
+  table td h3 {font-size: 17px;padding-bottom: 2px;}
+  table td a {font-size: 12px;}
+  .row {width: 100%;float: none;}
+  .right_content {padding-left: 0px;}
+  .juna{width: 100%;float: none;}
+  .hot {margin: 0;}
+  .right_copiright {float: none;}
+}
